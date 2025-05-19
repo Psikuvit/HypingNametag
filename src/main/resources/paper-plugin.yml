@@ -1,0 +1,6 @@
+name: HypingNametag
+version: '1.0'
+main: me.psikuvit.hypingNametag.HypingNametag
+api-version: '1.21'
+
+folia-supported: true
